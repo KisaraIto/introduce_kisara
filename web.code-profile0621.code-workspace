@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "introduce_kisara"
+	}
+}
